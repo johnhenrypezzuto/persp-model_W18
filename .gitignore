@@ -156,3 +156,4 @@ ENV/
 
 # Apple stuff
 .DS_Store
+Notebooks/LinRegress/LinRegress.ipynb
